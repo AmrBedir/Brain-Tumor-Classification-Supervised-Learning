@@ -39,6 +39,8 @@ Supervised learning enables the model to recognize patterns from labeled dataset
 
 ## License
 This project is open-source under the **MIT License**.
-
 ---
+
+<p align="center">Made with :heart:&:coffee:</p>
+<p align="center">Seeking for Knowledge and Wisdom.</p>
 
