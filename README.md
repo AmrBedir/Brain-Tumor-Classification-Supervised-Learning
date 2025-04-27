@@ -121,7 +121,7 @@ Feel free to fork the repository, create pull requests, or open issues to contri
     </td>
         <td align="center">
       <a href="https://github.com/xkarimabdelaziz">
-        <img src="https://avatars.githubusercontent.com/xkarimabdelaziz" width="100px;" alt="Kareem Mohamed Gomaa"/><br />
+        <img src="https://avatars.githubusercontent.com/xkarimabdelaziz" width="100px;" alt="Karim Abdelaziz"/><br />
         <sub><b>Karim Abdelaziz</b></sub>
       </a>
       <br />
@@ -137,5 +137,5 @@ Feel free to fork the repository, create pull requests, or open issues to contri
 This project is open-source under the **MIT License**. ![License](https://img.shields.io/badge/License-MIT-green)
 ---
 
-<p align="center">Made with :heart:&:coffee:</p>
-<p align="center">Seeking for Knowledge and Wisdom.</p>
+<p align="center">Made with ❤️ fueled by ☕</p>
+<p align="center"><b>Always seeking knowledge, always growing 🚀</b></p>
