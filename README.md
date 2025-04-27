@@ -13,14 +13,14 @@
 - [How to Run 🚀](#how-to-run-) ⚙️
 - [Installation](#installation) 💻
 - [How the Model Works](#how-the-model-works) 🤖
-- [Demo](#demo) 🎥
+- [Demo](#demo-) 🎥
 - [Classification Process](#classification-process) 🧠
 - [Model Evaluation 📊](#model-evaluation) 📊
 - [Applications](#applications) 🌐
 - [Ethical Considerations](#ethical-considerations) ⚖️
 - [Future Prospects](#future-prospects) 🔮
 - [Contact Information](#contact-information) 📞
-- [Acknowledgements](#acknowledgements) 🙏
+- [Acknowledgements](#acknowledgements-) 🙏
 - [Contribution](#contribution) 🤝
 - [License](#license) 📝
 
