@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a0671296-841f-4798-a0bd-5f024c5bd402)# Brain Tumor Classification with Random Forest and Supervised Learning
+# Brain Tumor Classification with Random Forest and Supervised Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.7%2B-blue" alt="Python Version" />
