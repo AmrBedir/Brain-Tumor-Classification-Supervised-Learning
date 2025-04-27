@@ -7,18 +7,19 @@
 </p>
 
 ## Table of Contents
-- [Overview](#overview)
-- [Preview](#preview)
-- [Purpose](#purpose)
-- [How to Run 🚀](#how-to-run-)
-- [Installation](#installation)
-- [Classification Process](#classification-process)
-- [Applications](#applications)
-- [Ethical Considerations](#ethical-considerations)
-- [Future Prospects](#future-prospects)
-- [Contact Information](#contact-information)
-- [Contribution](#contribution)
-- [License](#license)
+- [Overview](#overview) 📚
+- [Preview](#preview) 📸
+- [Purpose](#purpose) 🎯
+- [How to Run 🚀](#how-to-run-) ⚙️
+- [Installation](#installation) 💻
+- [Classification Process](#classification-process) 🧠
+- [Applications](#applications) 🌐
+- [Ethical Considerations](#ethical-considerations) ⚖️
+- [Future Prospects](#future-prospects) 🔮
+- [Contact Information](#contact-information) 📞
+- [Contribution](#contribution) 🤝
+- [License](#license) 📝
+
 
 ## Overview
 This project leverages **supervised learning** and a **Random Forest Classifier** to categorize brain tumor images into four distinct types. By analyzing medical imaging data, it aims to assist in **early detection**, **diagnostic support**, and **medical research**.
@@ -58,6 +59,25 @@ Brain tumors vary in **type, severity, and progression**, necessitating accurate
 4. Open the project folder using **Visual Studio Code** (VS Code).
 5. You're all set! 🎉
 
+## How the Model Works 🤖
+
+1. **Data Preprocessing**: 
+   - Images are resized and normalized.
+   - Tumor labels are encoded numerically for the classification task.
+2. **Random Forest Classifier**: 
+   - The model is trained on features extracted from MRI images.
+   - It uses the decision tree algorithm in an ensemble approach to classify new images.
+3. **Prediction**: 
+   - Given a new MRI image, the model classifies the tumor into one of four categories.
+
+## Demo 🎥
+Here is a demo of how the model works and generates a Confusion Matrix:
+
+![Demo GIF](./demo_01.gif)
+
+Here is a demo of how the model predicts an image:
+
+![Demo GIF](./demo_02.gif)
 
 ## Classification Process
 Supervised learning enables the model to recognize patterns from labeled datasets. The workflow includes:
