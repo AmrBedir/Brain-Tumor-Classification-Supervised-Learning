@@ -58,7 +58,7 @@ Brain tumors vary in **type, severity, and progression**, necessitating accurate
 ## Installation
 
 1. Download the repository.
-2. Extract the `brain_tumor_dataset.zip` file.
+2. Extract the `ZIP` files into `brain_tumor_dataset` folder.
 3. Run the `install_requirements.bat` file as an administrator to install all required packages.
 4. Open the project folder using **Visual Studio Code** (VS Code).
 5. You're all set! 🎉
