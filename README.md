@@ -15,7 +15,7 @@
 - [How the Model Works](#how-the-model-works-) 🤖
 - [Demo](#demo-) 🎥
 - [Classification Process](#classification-process) 🧠
-- [Model Evaluation 📊](#model-evaluation) 📊
+- [Model Evaluation 📊](#model-evaluation-) 📊
 - [Applications](#applications) 🌐
 - [Ethical Considerations](#ethical-considerations) ⚖️
 - [Future Prospects](#future-prospects) 🔮
