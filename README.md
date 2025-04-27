@@ -12,7 +12,7 @@
 - [Purpose](#purpose) 🎯
 - [How to Run 🚀](#how-to-run-) ⚙️
 - [Installation](#installation) 💻
-- [How the Model Works](#how-the-model-works) 🤖
+- [How the Model Works](#how-the-model-works-) 🤖
 - [Demo](#demo-) 🎥
 - [Classification Process](#classification-process) 🧠
 - [Model Evaluation 📊](#model-evaluation) 📊
