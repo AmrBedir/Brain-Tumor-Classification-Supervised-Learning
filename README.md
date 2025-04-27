@@ -12,11 +12,15 @@
 - [Purpose](#purpose) 🎯
 - [How to Run 🚀](#how-to-run-) ⚙️
 - [Installation](#installation) 💻
+- [How the Model Works](#how-the-model-works) 🤖
+- [Demo](#demo) 🎥
 - [Classification Process](#classification-process) 🧠
+- [Model Evaluation 📊](#model-evaluation) 📊
 - [Applications](#applications) 🌐
 - [Ethical Considerations](#ethical-considerations) ⚖️
 - [Future Prospects](#future-prospects) 🔮
 - [Contact Information](#contact-information) 📞
+- [Acknowledgements](#acknowledgements) 🙏
 - [Contribution](#contribution) 🤝
 - [License](#license) 📝
 
@@ -87,6 +91,13 @@ Supervised learning enables the model to recognize patterns from labeled dataset
 4. **Evaluation**: Validating accuracy through established performance metrics.
 5. **External Image Classification**: Enabling users to submit new images for assessment.
 
+## Model Evaluation 📊
+The model is evaluated using the following metrics:
+- **Accuracy**: Measures the proportion of correct predictions.
+- **Precision**: Evaluates how many of the predicted positive instances are actually positive.
+- **Recall**: Measures how many of the actual positive instances were correctly identified.
+- **F1 Score**: Combines precision and recall into one metric.
+
 ## Applications
 - **Clinical Decision Support**: Assisting radiologists and oncologists in preliminary tumor classification.
 - **Medical Research**: Advancing the understanding of tumor characteristics through AI-based analysis.
@@ -106,6 +117,11 @@ Supervised learning enables the model to recognize patterns from labeled dataset
 📧 **Email**: amrbedir@std.mans.edu.eg  
 🏫 **Affiliation**: FCIS, Mansoura University, 3rd, IT Dept.  
 👩‍🔬 **Supervised by**: Dr. Fatma Alzahraa Ahmed
+
+## Acknowledgements 🙏
+- [Kaggle Brain Tumor MRI dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+- [Random Forest Classifier documentation](https://scikit-learn.org/stable/modules/ensemble.html#random-forest)
+- [Matplotlib](https://matplotlib.org/) for data visualization
 
 ## Contribution
 Feel free to fork the repository, create pull requests, or open issues to contribute!
