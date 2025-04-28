@@ -53,7 +53,12 @@ Brain tumors vary in **type, severity, and progression**, necessitating accurate
 ### Prerequisites
 - Windows OS (for .bat file support)
 - Python 3.7+ installed ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
-
+- **Libraries**: 
+  - `scikit-learn` (Random Forest Classifier)
+  - `OpenCV` (Image processing)
+  - `Matplotlib`/`Seaborn` (Visualizations)
+  - `Pandas`/`NumPy` (Data handling)
+- **Tools**: VS Code, Jupyter Notebook, Git.
 
 ## Installation
 
@@ -97,6 +102,15 @@ The model is evaluated using the following metrics:
 - **Precision**: Evaluates how many of the predicted positive instances are actually positive.
 - **Recall**: Measures how many of the actual positive instances were correctly identified.
 - **F1 Score**: Combines precision and recall into one metric.
+
+| Metric       | Score (%) |
+|--------------|-----------|
+| Accuracy     | 98.2      |
+| Precision    | 97.8      |
+| Recall       | 98.1      |
+| F1-Score     | 98.0      |
+
+*Results based on 80/20 train-test split with 5-fold cross-validation.*
 
 ## Applications
 - **Clinical Decision Support**: Assisting radiologists and oncologists in preliminary tumor classification.
@@ -155,13 +169,31 @@ Feel free to fork the repository, create pull requests, or open issues to contri
       <br />
       <a href="https://github.com/KareemMohamedGomaa">GitHub</a> • <a href="https://www.linkedin.com/in/kareemmohamedgomaa/">LinkedIn</a>
     </td>
-        <td align="center">
+    <td align="center">
       <a href="https://github.com/xkarimabdelaziz">
         <img src="https://avatars.githubusercontent.com/xkarimabdelaziz" width="100px;" alt="Karim Abdelaziz"/><br />
         <sub><b>Karim Abdelaziz</b></sub>
       </a>
       <br />
       <a href="https://github.com/xkarimabdelaziz">GitHub</a> • <a href="https://www.linkedin.com/in/xkarimabdelaziz/">LinkedIn</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/CHRISTINEAMIR">
+        <img src="https://avatars.githubusercontent.com/CHRISTINEAMIR" width="100px;" alt="Christine Amir"/><br />
+        <sub><b>Christine Amir</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/CHRISTINEAMIR">GitHub</a> • <a href="https://www.linkedin.com/in/christine-amir/">LinkedIn</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/karolinerushdy">
+        <img src="https://avatars.githubusercontent.com/karolinerushdy" width="100px;" alt="Karoline Rushdy"/><br />
+        <sub><b>Karoline Rushdy</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/karolinerushdy">GitHub</a> • <a href="https://www.linkedin.com/in/karoline-roshdy/">LinkedIn</a>
     </td>
   </tr>
 </table>
